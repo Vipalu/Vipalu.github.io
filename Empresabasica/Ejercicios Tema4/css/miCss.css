@@ -1,0 +1,23 @@
+nav a{
+  padding: 10px; 
+  border: dotted 1px;  
+}
+nav a:hover{
+  background-color: blue;
+}
+body>header{ margin-top: 60px;}
+section article p{
+padding: 1em 1em;
+margin-botton: 2em;
+background-color: #e9ecef;
+border-radius: 1em;
+}
+  h1{
+  font-family: 'Spicy Rice', cursive;
+  text-shadow: 5px 5px greenyellow;
+  width: 50t%;
+  float: left;
+  
+}
+  
+}
